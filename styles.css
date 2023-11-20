@@ -63,17 +63,13 @@ button{
     gap:10px
 
 }
-.items .more{
+#More{
     display: flex; 
- justify-content: center;
-    align-items: center;
+
 }
 
 
-.items .More {
-    display: flex;
-    align-items: center;
-}
+
 
 .more .arrow{
     padding-top: 30px;
